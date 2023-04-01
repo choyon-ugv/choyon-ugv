@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Farhan Shahriar Choyon.
-#### Python Developer & Graphics Designer
-I'm a Python Developer & also a Graphics Designer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintain excellent communication. Most of the time I working with Python & Django but some technologies I enjoy working with include AI, Machine Learning, Robotics.
+#### Django Developer & Graphics Designer
+I'm a Django Developer & also a Graphics Designer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I pride myself on doing quality work and maintain excellent communication. Most of the time I working with Python & Django but some technologies I enjoy working with include AI, Machine Learning, Robotics.
 
 Skills: C / C++ / HTML / Python / Django / Adobe Illustrator
 
