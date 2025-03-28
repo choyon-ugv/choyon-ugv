@@ -7,7 +7,7 @@
 # Heyy! Beautifull Peoples<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Farhan Shahriar Choyon and I'm a Jr. Python developer. I'm from Bangladesh, living in Dhaka.
-<p align="center">
+<p>
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
   <br>
