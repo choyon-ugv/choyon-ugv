@@ -1,5 +1,4 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://github.com/choyon-ugv/choyon-ugv/blob/master/full-stack-development.gif "Header")](https://github.com/choyon-ugv/choyon-ugv)
 <p align="center">
   <img src="https://github.com/choyon-ugv/choyon-ugv/blob/master/full-stack-development.gif" alt="Header">
 </p>
